@@ -700,8 +700,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--third-accent-color);
-  display: flex;
-  align-items: center;
 }
 
 .checkbox-icon {
@@ -716,6 +714,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 .check-text a {
