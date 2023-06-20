@@ -617,6 +617,7 @@ img {
   margin-bottom: 16px;
 }
 .modal-form {
+  gap: 24px;
 }
 
 .modal-input {
