@@ -496,6 +496,7 @@ img {
 }
 .footer-form {
   display: flex;
+  gap: 24px;
 }
 .footer-button {
   font-weight: 500;
