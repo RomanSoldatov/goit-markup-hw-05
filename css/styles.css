@@ -726,5 +726,4 @@ img {
 }
 .input-check:focus + .check-text span {
   border-color: var(--accent-color);
-  fill: var(--accent-color);
 }
